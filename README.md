@@ -163,7 +163,7 @@ Here are some screenshots of the app in action:
   ![Streamlit App UI](assets/screenshots/streamlit_app_ui.png)
 
 - **Example Question and Answer**  
-  ![Example Answer](assets/screenshots/example_answer.png)
+  ![Example Answer](assets/sceenshots/example_answer.png)
 
 - **Swagger UI for API Testing**  
   ![Swagger UI](assets/screenshots/swagger_ui.png)
