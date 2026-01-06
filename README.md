@@ -160,13 +160,13 @@ streamlit run ui.py
 Here are some screenshots of the app in action:
 
 - **Streamlit App UI**  
-  ![Streamlit App UI](assets/screenshots/streamlit_app_ui.png)
+  ![Streamlit App UI](assets/sceenshots/streamlit_app.png)
 
 - **Example Question and Answer**  
   ![Example Answer](assets/sceenshots/example_answer.png)
 
 - **Swagger UI for API Testing**  
-  ![Swagger UI](assets/screenshots/swagger_ui.png)
+  ![Swagger UI](assets/sceenshots/swagger_ui.png)
 
 ---
 
